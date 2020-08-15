@@ -1,0 +1,19 @@
+{
+  "name": "html-to-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "handlebars": "^4.7.6",
+    "puppeteer": "^5.2.1",
+    "showdown": "^1.9.1"
+  }
+}
